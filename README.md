@@ -1,4 +1,12 @@
-### Hi there 👋
+# Halo semua! 
+
+Perkenalkan nama saya **Mochammad Mirza Kharisma**.
+
+Saya seorang **Mahasiswa Akhir** di [Universitas Brawijaya](https://ub.ac.id/).
+
+Saya memiliki sertifikasi [Belajar Dasar Pemrograman JavaScript](https://www.dicoding.com/certificates/1RXYM5WQMXVM) sejak 2022.
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/mirzamochammad49/)ku ya.
 
 <!--
 **MirzaKharisma/MirzaKharisma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
