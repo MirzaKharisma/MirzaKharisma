@@ -2,7 +2,7 @@
 
 Perkenalkan nama saya **Mochammad Mirza Kharisma**.
 
-Saya seorang **Mahasiswa Akhir** di [Universitas Brawijaya](https://ub.ac.id/).
+Saya seorang **Lulusan baru** dari [Universitas Brawijaya](https://ub.ac.id/).
 
 Saya memiliki sertifikasi [Belajar Dasar Pemrograman JavaScript](https://www.dicoding.com/certificates/1RXYM5WQMXVM) sejak 2022.
 
@@ -21,8 +21,8 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🌱 I’m currently learning Data Science
+- 👯 I’m looking to collaborate on English Speaking Learning
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
